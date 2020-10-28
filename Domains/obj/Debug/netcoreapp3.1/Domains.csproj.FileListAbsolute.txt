@@ -1,0 +1,12 @@
+D:\Angular\Course\Domains\bin\Debug\netcoreapp3.1\Domains.deps.json
+D:\Angular\Course\Domains\bin\Debug\netcoreapp3.1\Domains.dll
+D:\Angular\Course\Domains\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\Angular\Course\Domains\bin\Debug\netcoreapp3.1\DB.dll
+D:\Angular\Course\Domains\bin\Debug\netcoreapp3.1\DB.pdb
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.csprojAssemblyReference.cache
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfoInputs.cache
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfo.cs
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CoreCompileInputs.cache
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CopyComplete
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.dll
+D:\Angular\Course\Domains\obj\Debug\netcoreapp3.1\Domains.pdb

@@ -1,0 +1,9 @@
+D:\Angular\Course\DB\bin\Debug\netcoreapp3.1\DB.deps.json
+D:\Angular\Course\DB\bin\Debug\netcoreapp3.1\DB.dll
+D:\Angular\Course\DB\bin\Debug\netcoreapp3.1\DB.pdb
+D:\Angular\Course\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfoInputs.cache
+D:\Angular\Course\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfo.cs
+D:\Angular\Course\DB\obj\Debug\netcoreapp3.1\DB.csproj.CoreCompileInputs.cache
+D:\Angular\Course\DB\obj\Debug\netcoreapp3.1\DB.dll
+D:\Angular\Course\DB\obj\Debug\netcoreapp3.1\DB.pdb
+D:\Angular\Course\DB\obj\Debug\netcoreapp3.1\DB.csprojAssemblyReference.cache

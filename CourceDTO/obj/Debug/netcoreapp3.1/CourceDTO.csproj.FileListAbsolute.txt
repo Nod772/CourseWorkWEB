@@ -1,0 +1,9 @@
+D:\Angular\Course\CourceDTO\bin\Debug\netcoreapp3.1\CourceDTO.deps.json
+D:\Angular\Course\CourceDTO\bin\Debug\netcoreapp3.1\CourceDTO.dll
+D:\Angular\Course\CourceDTO\bin\Debug\netcoreapp3.1\CourceDTO.pdb
+D:\Angular\Course\CourceDTO\obj\Debug\netcoreapp3.1\CourceDTO.csprojAssemblyReference.cache
+D:\Angular\Course\CourceDTO\obj\Debug\netcoreapp3.1\CourceDTO.AssemblyInfoInputs.cache
+D:\Angular\Course\CourceDTO\obj\Debug\netcoreapp3.1\CourceDTO.AssemblyInfo.cs
+D:\Angular\Course\CourceDTO\obj\Debug\netcoreapp3.1\CourceDTO.csproj.CoreCompileInputs.cache
+D:\Angular\Course\CourceDTO\obj\Debug\netcoreapp3.1\CourceDTO.dll
+D:\Angular\Course\CourceDTO\obj\Debug\netcoreapp3.1\CourceDTO.pdb

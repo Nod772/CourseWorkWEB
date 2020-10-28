@@ -1,0 +1,12 @@
+D:\Angular\Course\CourseWork.Domain\bin\Debug\netcoreapp3.1\CourseWork.Domain.deps.json
+D:\Angular\Course\CourseWork.Domain\bin\Debug\netcoreapp3.1\CourseWork.Domain.dll
+D:\Angular\Course\CourseWork.Domain\bin\Debug\netcoreapp3.1\CourseWork.Domain.pdb
+D:\Angular\Course\CourseWork.Domain\bin\Debug\netcoreapp3.1\DB.dll
+D:\Angular\Course\CourseWork.Domain\bin\Debug\netcoreapp3.1\DB.pdb
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.csprojAssemblyReference.cache
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.AssemblyInfoInputs.cache
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.AssemblyInfo.cs
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.csproj.CoreCompileInputs.cache
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.csproj.CopyComplete
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.dll
+D:\Angular\Course\CourseWork.Domain\obj\Debug\netcoreapp3.1\CourseWork.Domain.pdb
